@@ -1,0 +1,5 @@
+# Librería de chart.js
+public/js/Chart*.*
+
+# Goland IDE
+.idea/
